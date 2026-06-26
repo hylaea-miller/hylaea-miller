@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🌱 I am an environmental scientist, graduated from the University of Brasília (UnB), and I am currently pursuing a master's degree in Environmental Data Science at the Bren School of Environmental Science & Management, University of California, Santa Barbara (UCSB). I enjoy learning and applying my knowledge to real-world environmental problems in a practical and accessible way.
+🌱 I’m a Master of Environmental Data Science graduate from UC Santa Barbara’s Bren School, with a bachelor’s degree in Environmental Science from the University of Brasília (UnB). I enjoy learning and applying my knowledge to real-world environmental challenges in a practical and accessible way. You can also check out my [portfolio webpage](https://hylaea-miller.github.io/posts.html) to see some of my projects and work.
 
 ## 
 
